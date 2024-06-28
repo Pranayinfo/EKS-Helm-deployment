@@ -4,8 +4,7 @@
 This project involves the deployment of three-tier application on AWS Elastic Kubernetes Service (EKS) using Helm and Ingress for secure and scalable management. The application includes a Student App, Trainer App, and LMS Admin App, all hosted on web platforms, with iOS and Android support for the Student App. The deployment includes various AWS services such as VPC, NAT, NACL, Security Groups, Load Balancer, and AWS Certificate Manager for SSL certification. The goal is to provide a secure, robust, and efficient environment for running the application.
 
 ### High Level Architecture: Deployment
-
-![image](https://github.com/Pranayinfo/excelr-helm-k8s/assets/97338976/6328db02-77f4-421a-8da7-b29646bc9a76)
+![Screenshot 2024-06-28 123123](https://github.com/Pranayinfo/EKS-Helm-deployment/assets/97338976/4761579f-7824-40ee-ad2b-4d13aac22cc2)
 
 🚢 **High-Level Overview:**
 ## AWS Services Utilized
